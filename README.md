@@ -1,4 +1,5 @@
 `AliAgent.py` 是一个基于 Panel 框架的 Python 应用程序，用于与云端设定的 Agent 进行对话。该应用程序通过调用阿里云的 API 实现对话功能，并展示对话的统计信息。
+![image](assets/sample.png)
 
 ## 功能
 1. 与云端设定的自定义语言模型进行对话。
