@@ -41,9 +41,9 @@ div > img {
 }
 """)
 
-knowledgeDBUpdateTime = '2024年9月9日'
-api_key = os.getenv('QWEN_API_KEY')   # 获取API_KEY
-app_id = '{YOUR_APP_ID}'  # 定义应用ID
+knowledgeDBUpdateTime = '2024年9月9日'  # 设置知识库最新的更新日期
+api_key = '{YOUR_API_KEY}'   # 替换为自己的API_KEY
+app_id = '{YOUR_APP_ID}'  # 替换为自己的APP_ID
 # 定义用户和系统头像的路径
 user_avatar = 'assets/user_avatar.JPG'
 # 定义模型的价格信息
